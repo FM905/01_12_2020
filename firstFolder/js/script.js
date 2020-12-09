@@ -1,4 +1,7 @@
 "use strict";
+ОСНОВЫ
+{
+
 //TODO:уроки 01-05
 {
 
@@ -54,11 +57,35 @@ let arr = ['plum.png', 'orange.jpeg', 6, 'apple.bmp', {}, [] ];
 //TODO:уроки 07
 {
     "use strict";
+
+
 alert('Hello!');
 const result = confirm('Are u here?');
-console.log(result);
+console.log(typeof(result), result);
 
 
+const answer = [];
+answer[0] = prompt('A u r 18 old?', "18");
+answer[1] = prompt("18", '');
+answer[2] = prompt('A u r 18 old?', "18");
+
+document.write(answer);
 
 
 }
+
+//TODO:уроки 08 Интерполяция
+//переменная внутри строки
+{
+
+ (`htpp/${}`) 
+
+}
+//TODO:уроки 09 Операторы JS
+{
+
+    console.log('arr')
+}}
+ 
+
+/TODO:Как РАБОТАТь с  github
